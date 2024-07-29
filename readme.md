@@ -1,6 +1,6 @@
 ## Olá eu sou Gabriel Marques Soares
 
-![GabrielMarquesSoares GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarquesSoares&show_icons=true&theme=dracula)
+![GabrielMarquesSoares GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarquesSoares&show_icons=true&theme=tokyonight)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielMarquesSoares/GabrielMarquesSoares/output/github-contribution-grid-snake-dark.svg">
