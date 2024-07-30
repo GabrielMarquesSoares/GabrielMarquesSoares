@@ -4,6 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielMarquesSoares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMarquesSoares&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+ 
 
 ###
 
@@ -17,6 +18,15 @@
 
 ###
 
+ 
+
+##
+
+<div style ="display: inline_block"> <br>
+
+<img align= "right" alt="biel" style="width: 200px; height: 200px;" src ="https://media.discordapp.net/attachments/1266095705135517819/1267962283548741726/ezgif.com-animated-gif-maker.gif?ex=66aab165&is=66a95fe5&hm=f5c0fe6c658f440f5de995a0e08482a733a7794e2f0893e1a2e432144a241468&=&width=407&height=407">
+  </div>
+  redes sociais
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-marques-soares-861427282/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -26,11 +36,7 @@
   </a>
 </div>
 
-<div style ="display: inline_block"> <br>
-<img align= "right" alt="biel" style="width: 200px; height: 200px;" src ="https://media.discordapp.net/attachments/1266095705135517819/1267962283548741726/ezgif.com-animated-gif-maker.gif?ex=66aab165&is=66a95fe5&hm=f5c0fe6c658f440f5de995a0e08482a733a7794e2f0893e1a2e432144a241468&=&width=407&height=407">
-  </div>
-
-  ##
+  
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielMarquesSoares/GabrielMarquesSoares/output/github-contribution-grid-snake-dark.svg">
