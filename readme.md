@@ -3,7 +3,7 @@
 ![GabrielMarquesSoares GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarquesSoares&show_icons=true&theme=transparent)
 
 ##
-
+<img="https://discord.com/channels/@me/1032131087436103773/1267959052181311528">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielMarquesSoares/GabrielMarquesSoares/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielMarquesSoares/GabrielMarquesSoares/output/github-contribution-grid-snake-dark.svg">
