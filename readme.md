@@ -29,7 +29,7 @@
   </div>
  <h2 align="center"> Minhas redes sociais :
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-marques-soares-861427282/" >
+  <a href="https://www.linkedin.com/in/gabriel-marques-soares-861427282/" target="_blank" real="external" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:gabrielmarquessoares2002@gmail.com" target="_blank" real="external">
