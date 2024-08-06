@@ -1,10 +1,10 @@
 ## Olá eu sou Gabriel Marques Soares
 
+<div aling="center">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarquesSoares&show_icons=true&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarquesSoares&show_icons=true&theme=radical)
-
- 
+ </div>
 
 ## 
 <p align="left">Atualmente estudando...
