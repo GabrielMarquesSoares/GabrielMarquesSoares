@@ -1,6 +1,6 @@
 ## Olá eu sou Gabriel Marques Soares
 
-<div align="center" flex-direction=" row">
+<div align="center"">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMarquesSoares&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
