@@ -1,10 +1,14 @@
 ## Olá eu sou Gabriel Marques Soares
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmarquessoares&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMarquesSoares&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmarquessoares&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMarquesSoares&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
  
 
