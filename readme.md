@@ -1,7 +1,8 @@
 ## Olá eu sou Gabriel Marques Soares
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMarquesSoares&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarquesSoares&show_icons=true&theme=transparent)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMarquesSoares&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
