@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMarquesSoares&show_icons=true&theme=transparent)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesSoares&layout=compact&true&theme=transparent)
  </div>
 
 ## 
