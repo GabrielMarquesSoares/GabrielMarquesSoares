@@ -25,8 +25,11 @@
 
 <div style ="display: inline_block"> <br>
 
-<img align= "right" alt="biel" style="width: 200px; height: 200px;" src ="https://media.discordapp.net/attachments/1266095705135517819/1267962283548741726/ezgif.com-animated-gif-maker.gif?ex=66aab165&is=66a95fe5&hm=f5c0fe6c658f440f5de995a0e08482a733a7794e2f0893e1a2e432144a241468&=&width=407&height=407">
-  </div>
+<div align="right">
+  <img height="150"  src="https://cdn.discordapp.com/attachments/1266095705135517819/1267962283548741726/ezgif.com-animated-gif-maker.gif?ex=6733cd65&is=67327be5&hm=032a0f6ce1039f37d8f4633977d16466a0b36f502c1404b0ba644cfb8d55b485&"  />
+</div>
+
+###
  <h2 align="center"> Minhas redes sociais :
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-marques-soares-861427282/" target="_blank" real="external" >
